@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# News-Forwarding-Bot-with-ML-Duplicate-Detection
-A robust Telegram bot designed to aggregate and forward news from multiple source channels to subscribed target channels. Features machine learning-based duplicate detection, subscription management, and an intuitive GUI for model training.
-=======
 # 🌸 Mizuki News Forwarding Bot
 
 *A sophisticated Telegram bot that aggregates, processes, and forwards anime/news content from source channels to subscribed target channels with duplicate detection and subscription management.*
