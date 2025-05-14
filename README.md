@@ -2,8 +2,6 @@
 
 *A sophisticated Telegram bot that aggregates, processes, and forwards anime/news content from source channels to subscribed target channels with duplicate detection and subscription management.*
 
-![Bot Demo](https://via.placeholder.com/800x400.png?text=Mizuki+Bot+Demo)
-
 ---
 
 ## 🌟 Features
