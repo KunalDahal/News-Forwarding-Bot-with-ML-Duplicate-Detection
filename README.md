@@ -193,4 +193,6 @@ await update.message.reply_text(
 MIT License. See `LICENSE` for full details.
 
 > *"Like cherry blossoms in spring, may your news flow beautifully." 🎴*
->>>>>>> 3707b65 (addded full folder)
+
+## Contact
+> [[@suu_111](https://t.me/suu_111)]
